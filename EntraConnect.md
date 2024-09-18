@@ -31,5 +31,4 @@ https://learn.microsoft.com/ja-jp/entra/identity/authentication/tutorial-enable-
 https://learn.microsoft.com/ja-jp/entra/identity/hybrid/connect/how-to-connect-sso-quick-start
 
 ## 5.Microsoft Entra ハイブリッド参加（対象範囲はAVDのみ）の構成
-
-
+https://learn.microsoft.com/ja-jp/entra/identity/devices/hybrid-join-control
